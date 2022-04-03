@@ -1,4 +1,4 @@
-# Mapping_Earthquakes - Module 13 Challenge - GeoJSON and Leflet
+# Mapping_Earthquakes - Module 13 Challenge - GeoJSON and Leaflet
 
 ## Overview of the Analysis
 
